@@ -1,0 +1,41 @@
+{
+  "_comment": "Only status=approved sources are fetched. Do not add a source without the user's approval (Phase 1 rule). Fill in terms_status / essays boundaries only after reading the live page.",
+  "sources": [
+    {
+      "source_id": "haikalstheory_wordpress",
+      "phase1_ref": "A1",
+      "status": "approved",
+      "parser": "haikalstheory_wordpress",
+      "publisher": "haikalstheory.wordpress.com (personal WordPress.com blog; author name not yet verified)",
+      "source_type": "personal blog",
+      "trust_level": "first-person",
+      "needs_js": false,
+      "terms_status": "unreviewed",
+      "license_or_terms_note": "Unreviewed: blog's own licence/copyright notice and WordPress.com terms not yet checked. Essay is the author's copyright; private study only.",
+      "pages": [
+        {
+          "url": "https://haikalstheory.wordpress.com/2012/03/03/statement-of-purpose-to-the-university-of-oxford-accepted-msc-in-computer-science/",
+          "essays": []
+        }
+      ]
+    },
+    {
+      "source_id": "dannymutia_medium",
+      "phase1_ref": "A2",
+      "status": "approved",
+      "parser": "dannymutia_medium",
+      "publisher": "Danny Mutia (Medium)",
+      "source_type": "personal blog",
+      "trust_level": "first-person",
+      "needs_js": false,
+      "terms_status": "unreviewed",
+      "license_or_terms_note": "Unreviewed: Medium Terms of Service and the post's licence not yet checked. Author's copyright; private study only.",
+      "pages": [
+        {
+          "url": "https://dannymutia.medium.com/my-journey-and-lessons-with-writing-personal-statements-cf21b211c941",
+          "essays": []
+        }
+      ]
+    }
+  ]
+}

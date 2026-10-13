@@ -1,0 +1,6 @@
+# Cached HTML, the SQLite DB and exports hold third-party essay text
+# (private study only) -- never commit them.
+data/
+__pycache__/
+*.pyc
+.pytest_cache/

@@ -81,3 +81,12 @@ Est. = estimated in-scope essays; Rec. = recommendation.
      direct site search on Medium, Substack, WordPress, Reddit
      (r/gradadmissions, r/MPP), and LinkedIn articles.
    - (c) Stop here.
+
+## Decision (2026-10-13)
+
+The user chose option (a): build the pipeline anyway. A1 and A2 are recorded
+in `essay_pipeline/sources.json` as `approved`, with `terms_status:
+"unreviewed"`. Until their terms and essay boundaries are confirmed on the
+live pages, their records can only reach `needs_review`. B1 (Tutorhunt) and
+the low-trust sources are not included. Further URLs will be added only with
+the user's approval.
